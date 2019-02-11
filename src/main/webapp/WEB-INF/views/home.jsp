@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	Hello jenkins! 5
+	Hello jenkins! Automatic deployment and build
 </h1>
 
 </body>
